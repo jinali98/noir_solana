@@ -1,5 +1,6 @@
 [Read Me is WIP]
 
+please note that targert folder is pushed only for demo purposes
 
 with sunspot we can verify noir based zk proof inside solana blockchain.
 
