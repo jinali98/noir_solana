@@ -1,4 +1,4 @@
-[Read Me is WIP]
+[ReadMe is WIP]
 
 please note that targert folder is pushed only for demo purposes
 
